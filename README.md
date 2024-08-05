@@ -32,6 +32,9 @@ result = handle_user_query(query, db, collection)
 print(result)
 ```
 
+## Dataset
+This dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/disham993/9000-movies-dataset/data) and has been granted CC0 1.0 Universal (CC0 1.0) Public Domain Dedication by the original author. This means you can copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission. You can find the dateset and more information [here](https://huggingface.co/datasets/Pablinho/movies-dataset).
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
